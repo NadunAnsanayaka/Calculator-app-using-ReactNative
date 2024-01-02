@@ -10,6 +10,6 @@ History Tracking: Keep track of your calculations with a history section, allowi
 Backspace Function: Easily correct mistakes by removing the last entered digit with the backspace button.
 Responsive Design: The app is designed to adapt to various screen sizes and orientations.
 
-![Screenshot_2](https://github.com/NadunAnsanayaka/Calculator-app-using-ReactNative/assets/85428478/83c42a9c-b072-4297-a599-35ea636dee60)
+![Screenshot_2](https://github.com/NadunAnsanayaka/Calculator-app-using-ReactNative/assets/85428478/83c42a9c-b072-4297-a599-35ea636dee60){ width=200px height=200px }
 
-![Screenshot_1](https://github.com/NadunAnsanayaka/Calculator-app-using-ReactNative/assets/85428478/a9589cb0-4614-4f79-a418-449605cacf99)
+![Screenshot_1](https://github.com/NadunAnsanayaka/Calculator-app-using-ReactNative/assets/85428478/a9589cb0-4614-4f79-a418-449605cacf99){ width=200px height=200px }
